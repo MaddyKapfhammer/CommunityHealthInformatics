@@ -108,12 +108,12 @@ disqusShortname = ""
       subtitle = "A guide to statistics in R"
       image = "pic05.jpg"
       url = "blogs/rstats"
-    
-    [[params.titles.showcase]]
-    title = "SAS Statistical Handbook"
-    subtitle = "A guide to statistics in SAS"
-    image = "pic06.jpg"
-    url = "blogs/sasstats"
+
+    [[params.tiles.showcase]]
+      title = "SAS Statistical Handbook"
+      subtitle = "A guide to statistics in SAS"
+      image = "pic06.jpg"
+      url = "blogs/sasstats"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
@@ -126,7 +126,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About Our Lab"
-    subtitle = "Slogan here"
+    subtitle = "Slogan Here"
     buttonText = "Check it Out"
     url = "about"
 
