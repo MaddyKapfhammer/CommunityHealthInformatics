@@ -92,7 +92,7 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Public Health Resources"
+      title = "Useful Resources"
       subtitle = "Enjoy access to all open source datasets revolving around the diverse field of global health"
       image = "resources.jpg"
       url = "blogs/resources"
@@ -126,12 +126,8 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About Our Lab"
-    subtitle = "Slogan Here"
     buttonText = "Check it Out"
     url = "about"
-
-
-
 
   # Contact section
   [params.contact]
