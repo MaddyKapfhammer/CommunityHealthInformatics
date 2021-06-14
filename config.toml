@@ -23,7 +23,7 @@ disqusShortname = ""
   description = "Open Source Lab for Assisting Students with Data Science Research"
 
   # Link custom assets relative to /static
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
   favicon    = "favicon.ico"
 
