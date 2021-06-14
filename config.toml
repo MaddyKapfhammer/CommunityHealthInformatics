@@ -53,11 +53,11 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "About Us"
-      url = "blogs/about"
+      url = "about/about"
 
     [[params.navigation.links]]
       name = "Meet Our Students"
-      url = "blogs/students"
+      url = "about/students"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -100,19 +100,19 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Laboratory Protocols"
       subtitle = "Our lab is run to aid in professional informatics research performed by students, for everyone"
-      image = "pic04.jpg"
+      image = "labProtocols.jpg"
       url = "blogs/protocol"
 
     [[params.tiles.showcase]]
       title = "R Statistical Handbook"
       subtitle = "A guide to statistics in R"
-      image = "pic05.jpg"
+      image = "rStats.jpg"
       url = "blogs/rstats"
 
     [[params.tiles.showcase]]
       title = "SAS Statistical Handbook"
       subtitle = "A guide to statistics in SAS"
-      image = "pic06.jpg"
+      image = "sasStats.jpg"
       url = "blogs/sasstats"
 
   [params.blog]
