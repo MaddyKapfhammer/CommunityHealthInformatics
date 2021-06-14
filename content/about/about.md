@@ -2,7 +2,7 @@
 title: "About"
 description: "Learn more about our lab: How it started, what we're doing, and what our future plans are"
 slug: "about"
-image: pic07.jpg
+image: "about.jpg"
 keywords: ""
 categories: 
     - ""
