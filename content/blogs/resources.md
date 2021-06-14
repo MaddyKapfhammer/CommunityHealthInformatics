@@ -1,7 +1,7 @@
 ---
-title: "Magna"
-description: "Lorem Etiam Nullam"
-slug: "magna"
+title: "Public Health Resources"
+description: "Description"
+slug: "resources"
 image: pic09.jpg
 keywords: ""
 categories: 
