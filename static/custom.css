@@ -1678,7 +1678,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
+			color: #ff9bff !important;
 		}
 
 		a:active {
@@ -2854,13 +2854,13 @@
 			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
 				width: 60%;
 			}
-
+/* Colors for Blocks */
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #2e1d5c;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #c482b6;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
@@ -3519,7 +3519,7 @@
 			}
 
 		#banner.style1:after {
-			background-color: #dfdd6f;
+			background-color: #377e21;
 		}
 
 		#banner.style2:after {
