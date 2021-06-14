@@ -82,7 +82,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Public Health Informatics Lab"
-    subtitle = "An Allegheny College resource to help students excell in open source data science."
+    subtitle = "An Allegheny College resource to help students excel in open source data science."
     buttonText = "Check it Out"
 
 
