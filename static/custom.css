@@ -2856,27 +2856,27 @@
 			}
 /* Colors for Blocks */
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #2e1d5c;
+				background-color: #1a0d3b;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #c482b6;
+				background-color: #eaebb1;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: #cfb955;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: #6c88bb;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #8ea9e8;
+				background-color: #1e46a3;
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #87c5a4;
+				background-color: #464580;
 			}
 
 		@media screen and (max-width: 1280px) {
