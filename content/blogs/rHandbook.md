@@ -1,6 +1,6 @@
 ---
 title: "R Statistical Handbook"
-description: "Description"
+description: "A guide to statistics in R"
 slug: "rstats"
 image: pic07.jpg
 keywords: ""

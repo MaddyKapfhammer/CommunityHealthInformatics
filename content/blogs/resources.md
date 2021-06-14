@@ -1,6 +1,6 @@
 ---
 title: "Public Health Resources"
-description: "Description"
+description: "Enjoy access to all open source datasets revolving around the diverse field of global health"
 slug: "resources"
 image: pic09.jpg
 keywords: ""

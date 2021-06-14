@@ -93,13 +93,13 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Public Health Resources"
-      subtitle = "Enjoy access to all open source datasets revolving around the diverse area of global health"
+      subtitle = "Enjoy access to all open source datasets revolving around the diverse field of global health"
       image = "pic03.jpg"
       url = "blogs/resources"
 
     [[params.tiles.showcase]]
       title = "Laboratory Protocols"
-      subtitle = "Our lab is run to aid in professional, informatics research performed by students, for everyone"
+      subtitle = "Our lab is run to aid in professional informatics research performed by students, for everyone"
       image = "pic04.jpg"
       url = "blogs/protocol"
 

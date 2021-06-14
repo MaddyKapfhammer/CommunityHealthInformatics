@@ -1,6 +1,6 @@
 ---
 title: "SAS Statistical Handbook"
-description: "Text Here"
+description: "A guide to statistics in SAS"
 slug: "sasstats"
 image: pic08.jpg
 keywords: ""

@@ -1,6 +1,6 @@
 ---
 title: "Laboratory Protocols"
-description: ""
+description: "Our lab is run to aid in professional informatics research, performed by students, for everyone"
 slug: "protocol"
 image: pic10.jpg
 keywords: ""
