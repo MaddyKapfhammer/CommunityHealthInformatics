@@ -13,9 +13,9 @@ draft: false
 
 * [What is Statistics](#what-is-statistics)
 
-* [A Guide to Basic Stats](#a-guide-to-basic-stats)
+* [Important Vocabulary](#important-vocabulary)
 
-* [Choosing the Right Statistical Test](#choosing-the-right-statistical-test)
+* [Types of Statistical Tests](#types-of-statistical-tests)
 
 ## What is Statistics
 
